@@ -2,7 +2,7 @@ package heaps;
 
 import java.util.*;
 
-public class Djikstras {
+public class  Djikstras {
 
     public static void main(String[] args) {
         Djikstras djikstras=new Djikstras();
